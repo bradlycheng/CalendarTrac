@@ -1,5 +1,4 @@
 # CalendarTrac
-CalendarTrac
 
 Keep track of your favorite NFL teams schedule, favorite NBA teams schedule, favorite TV shows scedule, upcoming Apple music release and upcoming movie releases all on one calendar website.
 <br>
